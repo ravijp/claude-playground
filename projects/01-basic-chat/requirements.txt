@@ -1,0 +1,2 @@
+# Inherits from root requirements.txt
+# Add project-specific dependencies here if needed
